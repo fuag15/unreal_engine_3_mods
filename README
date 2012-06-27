@@ -1,0 +1,5 @@
+This is a series of unreal script modifications for Unreal Tournament 3. They show everything from basic weapon tweaking, to making a ui for your mod, changing scripted events, modifying spawn positions, swapping out weapons, creating a new weapon, changing physics, and changing game rules. There is also a swap of some shader effects in it.
+
+I did this as a tech demo so I know how to modify all areas of unreal engine 3. Feel free to take a look.
+
+There is a distributable version of them as well.
